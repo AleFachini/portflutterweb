@@ -3,10 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ad10b78bbadddc5fcc679c44f8b73773",
-"assets/assets/fonts/SansForgetica-Regular.ttf": "a70dcdc9a3304bf6d71913ff55a58aac",
-"assets/assets/images/lp_image.png": "5aad4d4216174954f5228d7d268546e8",
-"assets/FontManifest.json": "9a5fa551bf5bd4af854efe21c5fda865",
+  "assets/AssetManifest.json": "d2c43014f4dfec637b677bee4f39259b",
+"assets/assets/fonts/Raleway-Regular.ttf": "9942588a6c84f959132556d99e83ded6",
+"assets/assets/fonts/Raleway-SemiBold.ttf": "5a25c50b181b07279489ce5bb6a9545c",
+"assets/assets/fonts/RobotoSlab-Regular.ttf": "f7ffac600a7a4edb6db9b21c606a6884",
+"assets/assets/images/laptop_flutter.png": "647aef371bb7e19ff05cc8a4c012d6a0",
+"assets/FontManifest.json": "d0e1037801acffdd6224144b308c98f2",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/NOTICES": "108d0a1640e6b622b04c79e5a1de9f51",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
@@ -15,7 +17,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "3428fa2b23aed0ab299c489d539037c3",
 "/": "3428fa2b23aed0ab299c489d539037c3",
-"main.dart.js": "13109caa5b079fb2323d5eefa4770eb9",
+"main.dart.js": "951d142710636863b454b5c7aeb46bf1",
 "manifest.json": "58901f3a1c00b78560a5ef4b1088ddee"
 };
 
