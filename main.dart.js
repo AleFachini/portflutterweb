@@ -23815,7 +23815,7 @@ P.Bt.prototype={}
 P.Bu.prototype={}
 K.uP.prototype={
 ys:function(a){var t=null,s=new P.aV(20,20),r=u.t
-s=M.mM(t,T.DW(H.b([L.e7("Website \nDeveloper",A.ch(t,t,C.j,t,t,t,t,t,"Raleway",t,t,40,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.dn(C.nq,L.e7("Each new challenge I come across is taken as an incentive to produce the best quality results. Providing Value for the product is my purpose.",A.ch(t,t,C.j,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t)),t),B.Uu(new T.dn(C.hO,L.e7("My Projects",A.ch(t,t,C.og.i(0,900),t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)),t),C.j,new K.HI(),new X.bH(new K.bg(s,s,s,s),C.o))],r),C.hJ),t,t,t,t,t,a)
+s=M.mM(t,T.DW(H.b([L.e7("Website \nDeveloper",A.ch(t,t,C.j,t,t,t,t,t,t,t,t,40,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.dn(C.nq,L.e7("Each new challenge I come across is taken as an incentive to produce the best quality results. Providing Value for the product is my purpose.",A.ch(t,t,C.j,t,t,t,t,t,"Raleway",t,t,16,t,t,t,t,!0,t,t,t,t,t,t)),t),B.Uu(new T.dn(C.hO,L.e7("My Projects",A.ch(t,t,C.og.i(0,900),t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t)),t),C.j,new K.HI(),new X.bH(new K.bg(s,s,s,s),C.o))],r),C.hJ),t,t,t,t,t,a)
 return H.b([s,new T.dn(C.nq,new U.nr(M.a0d(t,t,new L.ms("assets/images/laptop_flutter.png",t,t)),a,t),t)],r)},
 M:function(a){return new A.nH(new K.HH(this),null)}}
 K.HI.prototype={
@@ -23836,14 +23836,14 @@ if(t>1200)return new V.mS(null)
 else if(t>800&&t<1200)return new V.mS(null)
 else return new V.vc(null)}}
 V.mS.prototype={
-M:function(a){var t="Raleway",s=null,r=new P.aV(20,20),q=u.t
-return new T.dn(C.hO,M.mM(s,T.K1(H.b([L.e7("ALEJANDRO F.",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,40,s,C.V,s,s,!0,s,s,s,s,s,s)),T.K1(H.b([L.e7("Home",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,s,s,C.V,s,s,!0,s,s,s,s,s,s)),new T.e1(30,s,s,s),L.e7("About",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,s,s,C.V,s,s,!0,s,s,s,s,s,s)),new T.e1(30,s,s,s),L.e7("Portfolio",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,s,s,C.V,s,s,!0,s,s,s,s,s,s)),new T.e1(30,s,s,s),B.Uu(L.e7("Get Started",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,s,s,C.V,s,s,!0,s,s,s,s,s,s)),C.vu,new V.En(),new X.bH(new K.bg(r,r,r,r),C.o))],q),C.l6)],q),C.oc),s,s,s,s,s,s),s)}}
+M:function(a){var t=null,s="Raleway",r=new P.aV(20,20),q=u.t
+return new T.dn(C.hO,M.mM(t,T.K1(H.b([L.e7("ALEJANDRO F.",A.ch(t,t,C.j,t,t,t,t,t,t,t,t,40,t,C.V,t,t,!0,t,t,t,t,t,t)),T.K1(H.b([L.e7("Home",A.ch(t,t,C.j,t,t,t,t,t,s,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.e1(30,t,t,t),L.e7("About",A.ch(t,t,C.j,t,t,t,t,t,s,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.e1(30,t,t,t),L.e7("Portfolio",A.ch(t,t,C.j,t,t,t,t,t,s,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.e1(30,t,t,t),B.Uu(L.e7("Get Started",A.ch(t,t,C.j,t,t,t,t,t,s,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t)),C.vu,new V.En(),new X.bH(new K.bg(r,r,r,r),C.o))],q),C.l6)],q),C.oc),t,t,t,t,t,t),t)}}
 V.En.prototype={
 $0:function(){},
 $S:0}
 V.vc.prototype={
-M:function(a){var t="Raleway",s=null,r=u.t
-return new T.dn(C.hO,M.mM(s,T.DW(H.b([L.e7("ALEJANDRO F.",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,40,s,C.V,s,s,!0,s,s,s,s,s,s)),new T.dn(C.tl,T.K1(H.b([L.e7("Home",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,s,s,C.V,s,s,!0,s,s,s,s,s,s)),new T.e1(30,s,s,s),L.e7("About",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,s,s,C.V,s,s,!0,s,s,s,s,s,s)),new T.e1(30,s,s,s),L.e7("Portfolio",A.ch(s,s,C.j,s,s,s,s,s,t,s,s,s,s,C.V,s,s,!0,s,s,s,s,s,s))],r),C.l7),s)],r),C.f0),s,s,s,s,s,s),s)}}
+M:function(a){var t=null,s="Raleway",r=u.t
+return new T.dn(C.hO,M.mM(t,T.DW(H.b([L.e7("ALEJANDRO F.",A.ch(t,t,C.j,t,t,t,t,t,t,t,t,40,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.dn(C.tl,T.K1(H.b([L.e7("Home",A.ch(t,t,C.j,t,t,t,t,t,s,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.e1(30,t,t,t),L.e7("About",A.ch(t,t,C.j,t,t,t,t,t,s,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t)),new T.e1(30,t,t,t),L.e7("Portfolio",A.ch(t,t,C.j,t,t,t,t,t,s,t,t,t,t,C.V,t,t,!0,t,t,t,t,t,t))],r),C.l7),t)],r),C.f0),t,t,t,t,t,t),t)}}
 F.vh.prototype={
 M:function(a){return new S.nU(new F.vi(null),"Portfolio AFachini",X.Vm(null,"RobotoSlab",C.l9,X.a0I()),null)}}
 F.vi.prototype={
